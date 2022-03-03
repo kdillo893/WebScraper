@@ -56,12 +56,10 @@ def linkedin_newpostings(
 
     searchbox.click()
     searchbox.send_keys(search)
-    time.sleep(1)
     #need to clear the loc box, since it contains "United States"
     searchlocbox.clear()
-    time.sleep(0.5)
     searchlocbox.send_keys(searchLoc)
-    time.sleep(1)
+    time.sleep(0.5)
 
     searchbutton.click()
     time.sleep(3)
