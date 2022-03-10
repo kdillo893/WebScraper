@@ -1,6 +1,6 @@
-# Web Scraper and Job App Filler
-
-Tooling around with Selenium WebDriver for various tasks
+# WebScraper
+Tooling around with Selenium WebDriver for various tasks. Web scraping, job 
+application filling, etc...
 
 # Run Steps
 
