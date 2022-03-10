@@ -1,6 +1,8 @@
+# Web Scraper and Job App Filler
+
 Tooling around with Selenium WebDriver for various tasks
 
-#Run Steps
+# Run Steps
 
 Currently, just creating python files per each different task to run as a module.
 Each function details steps for running through the webpage and grabbing information.
