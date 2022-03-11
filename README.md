@@ -1,6 +1,8 @@
-Tooling around with Selenium WebDriver for various tasks
+# WebScraper
+Tooling around with Selenium WebDriver for various tasks. Web scraping, job 
+application filling, etc...
 
-#Run Steps
+# Run Steps
 
 Currently, just creating python files per each different task to run as a module.
 Each function details steps for running through the webpage and grabbing information.
